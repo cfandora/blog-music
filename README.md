@@ -1,2 +1,1 @@
-# blog-music
-blog music resources
+# Blog Music Resources
